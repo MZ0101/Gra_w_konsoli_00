@@ -4,8 +4,8 @@ W górnej części planszy rozmieszczanie są wrogowie, który wysyłają w poci
 Gracz może zestrzelić pociski lub wroga, za zesztrzelenie wroga gracz dostaje dodatkowy pocisk oraz punkt, gracz na poczadku zaczyna z 20 pociskami oraz z 3 życimi.
 Gra się kończy kiedy gracz straci wszystkie życia, czyli po trafieniu jego pojazdu trzykrotnie przez pociki wrogów.
 
-Możliwa rozbudowa:
-- przeniesienie gry na bibliotekę GUI np. biblioteka Qt
-- dodanie mechaniki zdobywania życia przez gracza
-- dodanie mechaniki, która umozliwia zdobywanie pocisków nie tylko przez zniszczenie wrogiego pojazdu
-- zapisywanie wyników
+## Możliwa rozbudowa:
+- Przeniesienie gry na bibliotekę GUI np. biblioteka Qt.
+- Dodanie mechaniki zdobywania życia przez gracza.
+- Dodanie mechaniki, która umozliwia zdobywanie pocisków nie tylko przez zniszczenie wrogiego pojazdu.
+- Dapisywanie wyników.
